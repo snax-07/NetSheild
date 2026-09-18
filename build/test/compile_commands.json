@@ -1,0 +1,170 @@
+[
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/application/client_application.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/application/client_application.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/application/client_application.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/application/client_application.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/config/client_config.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/client_config.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/client_config.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/config/client_config.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_loader.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_loader.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_loader.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_loader.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_validator.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_validator.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_manager.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_manager.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/firewall_manager.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/firewall_manager.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/kill_switch.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/kill_switch.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/main.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/main.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_address.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_address.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/udp_socket.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/udp_socket.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/linux/network_manager.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/linux/network_manager.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/macos/network_extension.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/macos/network_extension.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_manager.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_manager.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_table.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_table.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/client_metrics.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/client_metrics.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/health_monitor.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/health_monitor.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_device.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_device.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_linux.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_linux.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_macos.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_macos.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_manager.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_manager.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o"
+},
+{
+  "directory": "/Users/swapnilnade/Project/netshield/build/test",
+  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_state.cpp",
+  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_state.cpp",
+  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o"
+}
+]

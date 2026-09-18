@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-b23a0b23c080df4d29ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NetShield",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "netshield::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-netshield-Debug-b493926bbd1f97f6f049.json",
+					"name" : "netshield",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/swapnilnade/Project/netshield/build/dev",
+		"source" : "/Users/swapnilnade/Project/netshield"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

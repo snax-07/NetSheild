@@ -1,0 +1,184 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/*.cpp",
+			"paths" : 
+			[
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/application/client_application.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/client_config.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_loader.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_validator.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_manager.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/firewall_manager.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/kill_switch.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/main.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/udp_socket.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/linux/network_manager.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/macos/network_extension.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_manager.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_table.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/client_metrics.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/health_monitor.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_device.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_linux.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_macos.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_manager.cpp",
+				"/Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_state.cpp"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/dev/CMakeFiles/4.4.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/dev/CMakeFiles/4.4.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Linker/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Linker/AppleClang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CMake.app/Contents/share/cmake-4.4/Modules/Platform/Linker/Apple-AppleClang.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/swapnilnade/Project/netshield/build/dev",
+		"source" : "/Users/swapnilnade/Project/netshield"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
