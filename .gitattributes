@@ -1,0 +1,28 @@
+# Normalize text files to LF
+
+* text=auto eol=lf
+
+# C/C++ source files
+
+*.c text
+*.h text
+*.cc text
+*.cpp text
+*.cxx text
+*.hpp text
+*.hh text
+*.hxx text
+
+# Build/configuration files
+
+CMakeLists.txt text
+*.cmake text
+
+# Documentation
+
+*.md text
+*.txt text
+
+# Shell scripts
+
+*.sh text eol=lf

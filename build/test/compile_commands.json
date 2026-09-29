@@ -73,12 +73,6 @@
 },
 {
   "directory": "/Users/swapnilnade/Project/netshield/build/test",
-  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_address.cpp",
-  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_address.cpp",
-  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o"
-},
-{
-  "directory": "/Users/swapnilnade/Project/netshield/build/test",
   "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp",
   "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp",
   "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o"

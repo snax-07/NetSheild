@@ -16,7 +16,6 @@ set(OLD_GLOB
   "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/firewall_manager.cpp"
   "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/kill_switch.cpp"
   "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/main.cpp"
-  "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_address.cpp"
   "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp"
   "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/udp_socket.cpp"
   "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/linux/network_manager.cpp"

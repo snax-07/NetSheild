@@ -23,8 +23,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o.d"
   "CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o"
   "CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o.d"
-  "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o"
-  "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o.d"
   "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o"
   "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o.d"
   "CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o"

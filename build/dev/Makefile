@@ -404,6 +404,30 @@ apps/vpn-client/src/firewall/kill_switch.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.s
 .PHONY : apps/vpn-client/src/firewall/kill_switch.cpp.s
 
+apps/vpn-client/src/helper/IpHelper.o: apps/vpn-client/src/helper/IpHelper.cpp.o
+.PHONY : apps/vpn-client/src/helper/IpHelper.o
+
+# target to build an object file
+apps/vpn-client/src/helper/IpHelper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o
+.PHONY : apps/vpn-client/src/helper/IpHelper.cpp.o
+
+apps/vpn-client/src/helper/IpHelper.i: apps/vpn-client/src/helper/IpHelper.cpp.i
+.PHONY : apps/vpn-client/src/helper/IpHelper.i
+
+# target to preprocess a source file
+apps/vpn-client/src/helper/IpHelper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.i
+.PHONY : apps/vpn-client/src/helper/IpHelper.cpp.i
+
+apps/vpn-client/src/helper/IpHelper.s: apps/vpn-client/src/helper/IpHelper.cpp.s
+.PHONY : apps/vpn-client/src/helper/IpHelper.s
+
+# target to generate assembly for a file
+apps/vpn-client/src/helper/IpHelper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.s
+.PHONY : apps/vpn-client/src/helper/IpHelper.cpp.s
+
 apps/vpn-client/src/main.o: apps/vpn-client/src/main.cpp.o
 .PHONY : apps/vpn-client/src/main.o
 
@@ -831,6 +855,9 @@ help:
 	@echo "... apps/vpn-client/src/firewall/kill_switch.o"
 	@echo "... apps/vpn-client/src/firewall/kill_switch.i"
 	@echo "... apps/vpn-client/src/firewall/kill_switch.s"
+	@echo "... apps/vpn-client/src/helper/IpHelper.o"
+	@echo "... apps/vpn-client/src/helper/IpHelper.i"
+	@echo "... apps/vpn-client/src/helper/IpHelper.s"
 	@echo "... apps/vpn-client/src/main.o"
 	@echo "... apps/vpn-client/src/main.i"
 	@echo "... apps/vpn-client/src/main.s"

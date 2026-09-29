@@ -113,7 +113,8 @@
 				23,
 				24,
 				25,
-				26
+				26,
+				27
 			]
 		}
 	],
@@ -172,7 +173,8 @@
 				23,
 				24,
 				25,
-				26
+				26,
+				27
 			]
 		}
 	],
@@ -286,6 +288,16 @@
 			],
 			"compileGroupIndex" : 0,
 			"path" : "apps/vpn-client/src/firewall/kill_switch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 0,
+			"path" : "apps/vpn-client/src/helper/IpHelper.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

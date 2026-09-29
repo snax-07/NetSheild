@@ -428,30 +428,6 @@ apps/vpn-client/src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.s
 .PHONY : apps/vpn-client/src/main.cpp.s
 
-apps/vpn-client/src/networking/socket_address.o: apps/vpn-client/src/networking/socket_address.cpp.o
-.PHONY : apps/vpn-client/src/networking/socket_address.o
-
-# target to build an object file
-apps/vpn-client/src/networking/socket_address.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.o
-.PHONY : apps/vpn-client/src/networking/socket_address.cpp.o
-
-apps/vpn-client/src/networking/socket_address.i: apps/vpn-client/src/networking/socket_address.cpp.i
-.PHONY : apps/vpn-client/src/networking/socket_address.i
-
-# target to preprocess a source file
-apps/vpn-client/src/networking/socket_address.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.i
-.PHONY : apps/vpn-client/src/networking/socket_address.cpp.i
-
-apps/vpn-client/src/networking/socket_address.s: apps/vpn-client/src/networking/socket_address.cpp.s
-.PHONY : apps/vpn-client/src/networking/socket_address.s
-
-# target to generate assembly for a file
-apps/vpn-client/src/networking/socket_address.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_address.cpp.s
-.PHONY : apps/vpn-client/src/networking/socket_address.cpp.s
-
 apps/vpn-client/src/networking/socket_options.o: apps/vpn-client/src/networking/socket_options.cpp.o
 .PHONY : apps/vpn-client/src/networking/socket_options.o
 
@@ -858,9 +834,6 @@ help:
 	@echo "... apps/vpn-client/src/main.o"
 	@echo "... apps/vpn-client/src/main.i"
 	@echo "... apps/vpn-client/src/main.s"
-	@echo "... apps/vpn-client/src/networking/socket_address.o"
-	@echo "... apps/vpn-client/src/networking/socket_address.i"
-	@echo "... apps/vpn-client/src/networking/socket_address.s"
 	@echo "... apps/vpn-client/src/networking/socket_options.o"
 	@echo "... apps/vpn-client/src/networking/socket_options.i"
 	@echo "... apps/vpn-client/src/networking/socket_options.s"
