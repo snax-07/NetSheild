@@ -236,78 +236,6 @@ apps/vpn-client/src/config/config_validator.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.s
 .PHONY : apps/vpn-client/src/config/config_validator.cpp.s
 
-apps/vpn-client/src/connection/connection_manager.o: apps/vpn-client/src/connection/connection_manager.cpp.o
-.PHONY : apps/vpn-client/src/connection/connection_manager.o
-
-# target to build an object file
-apps/vpn-client/src/connection/connection_manager.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o
-.PHONY : apps/vpn-client/src/connection/connection_manager.cpp.o
-
-apps/vpn-client/src/connection/connection_manager.i: apps/vpn-client/src/connection/connection_manager.cpp.i
-.PHONY : apps/vpn-client/src/connection/connection_manager.i
-
-# target to preprocess a source file
-apps/vpn-client/src/connection/connection_manager.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.i
-.PHONY : apps/vpn-client/src/connection/connection_manager.cpp.i
-
-apps/vpn-client/src/connection/connection_manager.s: apps/vpn-client/src/connection/connection_manager.cpp.s
-.PHONY : apps/vpn-client/src/connection/connection_manager.s
-
-# target to generate assembly for a file
-apps/vpn-client/src/connection/connection_manager.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.s
-.PHONY : apps/vpn-client/src/connection/connection_manager.cpp.s
-
-apps/vpn-client/src/connection/reconnect_policy.o: apps/vpn-client/src/connection/reconnect_policy.cpp.o
-.PHONY : apps/vpn-client/src/connection/reconnect_policy.o
-
-# target to build an object file
-apps/vpn-client/src/connection/reconnect_policy.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o
-.PHONY : apps/vpn-client/src/connection/reconnect_policy.cpp.o
-
-apps/vpn-client/src/connection/reconnect_policy.i: apps/vpn-client/src/connection/reconnect_policy.cpp.i
-.PHONY : apps/vpn-client/src/connection/reconnect_policy.i
-
-# target to preprocess a source file
-apps/vpn-client/src/connection/reconnect_policy.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.i
-.PHONY : apps/vpn-client/src/connection/reconnect_policy.cpp.i
-
-apps/vpn-client/src/connection/reconnect_policy.s: apps/vpn-client/src/connection/reconnect_policy.cpp.s
-.PHONY : apps/vpn-client/src/connection/reconnect_policy.s
-
-# target to generate assembly for a file
-apps/vpn-client/src/connection/reconnect_policy.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.s
-.PHONY : apps/vpn-client/src/connection/reconnect_policy.cpp.s
-
-apps/vpn-client/src/connection/udp_connection.o: apps/vpn-client/src/connection/udp_connection.cpp.o
-.PHONY : apps/vpn-client/src/connection/udp_connection.o
-
-# target to build an object file
-apps/vpn-client/src/connection/udp_connection.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o
-.PHONY : apps/vpn-client/src/connection/udp_connection.cpp.o
-
-apps/vpn-client/src/connection/udp_connection.i: apps/vpn-client/src/connection/udp_connection.cpp.i
-.PHONY : apps/vpn-client/src/connection/udp_connection.i
-
-# target to preprocess a source file
-apps/vpn-client/src/connection/udp_connection.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.i
-.PHONY : apps/vpn-client/src/connection/udp_connection.cpp.i
-
-apps/vpn-client/src/connection/udp_connection.s: apps/vpn-client/src/connection/udp_connection.cpp.s
-.PHONY : apps/vpn-client/src/connection/udp_connection.s
-
-# target to generate assembly for a file
-apps/vpn-client/src/connection/udp_connection.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/netshield.dir/build.make CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.s
-.PHONY : apps/vpn-client/src/connection/udp_connection.cpp.s
-
 apps/vpn-client/src/dns/dns_config.o: apps/vpn-client/src/dns/dns_config.cpp.o
 .PHONY : apps/vpn-client/src/dns/dns_config.o
 
@@ -834,15 +762,6 @@ help:
 	@echo "... apps/vpn-client/src/config/config_validator.o"
 	@echo "... apps/vpn-client/src/config/config_validator.i"
 	@echo "... apps/vpn-client/src/config/config_validator.s"
-	@echo "... apps/vpn-client/src/connection/connection_manager.o"
-	@echo "... apps/vpn-client/src/connection/connection_manager.i"
-	@echo "... apps/vpn-client/src/connection/connection_manager.s"
-	@echo "... apps/vpn-client/src/connection/reconnect_policy.o"
-	@echo "... apps/vpn-client/src/connection/reconnect_policy.i"
-	@echo "... apps/vpn-client/src/connection/reconnect_policy.s"
-	@echo "... apps/vpn-client/src/connection/udp_connection.o"
-	@echo "... apps/vpn-client/src/connection/udp_connection.i"
-	@echo "... apps/vpn-client/src/connection/udp_connection.s"
 	@echo "... apps/vpn-client/src/dns/dns_config.o"
 	@echo "... apps/vpn-client/src/dns/dns_config.i"
 	@echo "... apps/vpn-client/src/dns/dns_config.s"

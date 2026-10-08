@@ -111,10 +111,7 @@
 				21,
 				22,
 				23,
-				24,
-				25,
-				26,
-				27
+				24
 			]
 		}
 	],
@@ -171,10 +168,7 @@
 				21,
 				22,
 				23,
-				24,
-				25,
-				26,
-				27
+				24
 			]
 		}
 	],
@@ -218,36 +212,6 @@
 			],
 			"compileGroupIndex" : 0,
 			"path" : "apps/vpn-client/src/config/config_validator.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"backtraces" : 
-			[
-				1
-			],
-			"compileGroupIndex" : 0,
-			"path" : "apps/vpn-client/src/connection/connection_manager.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"backtraces" : 
-			[
-				1
-			],
-			"compileGroupIndex" : 0,
-			"path" : "apps/vpn-client/src/connection/reconnect_policy.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"backtraces" : 
-			[
-				1
-			],
-			"compileGroupIndex" : 0,
-			"path" : "apps/vpn-client/src/connection/udp_connection.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

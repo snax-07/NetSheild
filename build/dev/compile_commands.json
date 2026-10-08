@@ -25,24 +25,6 @@
 },
 {
   "directory": "/Users/swapnilnade/Project/netshield/build/dev",
-  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp",
-  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp",
-  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o"
-},
-{
-  "directory": "/Users/swapnilnade/Project/netshield/build/dev",
-  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp",
-  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp",
-  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o"
-},
-{
-  "directory": "/Users/swapnilnade/Project/netshield/build/dev",
-  "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp",
-  "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp",
-  "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o"
-},
-{
-  "directory": "/Users/swapnilnade/Project/netshield/build/dev",
   "command": "/usr/bin/c++  -I/Users/swapnilnade/Project/netshield/include -Wall -Wextra -Wpedantic -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp",
   "file": "/Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp",
   "output": "CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o"

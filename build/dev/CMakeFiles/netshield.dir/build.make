@@ -128,52 +128,10 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/swapnilnade/Project/netshield/apps/vpn-client/src/config/config_validator.cpp -o CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.s
 
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o: CMakeFiles/netshield.dir/flags.make
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp > CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.i
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/connection_manager.cpp -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.s
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o: CMakeFiles/netshield.dir/flags.make
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp > CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.i
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/reconnect_policy.cpp -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.s
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o: CMakeFiles/netshield.dir/flags.make
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp > CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.i
-
-CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/swapnilnade/Project/netshield/apps/vpn-client/src/connection/udp_connection.cpp -o CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.s
-
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_config.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.i: cmake_force
@@ -187,7 +145,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_manager.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/dns/dns_manager.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.i: cmake_force
@@ -201,7 +159,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/firewall_manager.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/firewall_manager.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.i: cmake_force
@@ -215,7 +173,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.s: cm
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/kill_switch.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/firewall/kill_switch.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.i: cmake_force
@@ -229,7 +187,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/kill_switch.cpp.s: cmake_f
 CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/helper/IpHelper.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/helper/IpHelper.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.i: cmake_force
@@ -243,7 +201,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/helper/IpHelper.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/main.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/main.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.i: cmake_force
@@ -257,7 +215,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/main.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/socket_options.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.i: cmake_force
@@ -271,7 +229,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/networking/socket_options.cpp.s: cm
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/udp_socket.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/networking/udp_socket.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.i: cmake_force
@@ -285,7 +243,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/networking/udp_socket.cpp.s: cmake_
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/linux/network_manager.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/linux/network_manager.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.i: cmake_force
@@ -299,7 +257,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/platform/linux/network_manager.cpp.
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/macos/network_extension.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/platform/macos/network_extension.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cpp.i: cmake_force
@@ -313,7 +271,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/platform/macos/network_extension.cp
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.i: cmake_force
@@ -327,7 +285,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_manager.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_manager.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.i: cmake_force
@@ -341,7 +299,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_manager.cpp.s: cmake_
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_table.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/routing/route_table.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.i: cmake_force
@@ -355,7 +313,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/routing/route_table.cpp.s: cmake_fo
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/client_metrics.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/client_metrics.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.i: cmake_force
@@ -369,7 +327,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/client_metrics.cpp.s: cma
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/health_monitor.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/telemetry/health_monitor.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.i: cmake_force
@@ -383,7 +341,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/telemetry/health_monitor.cpp.s: cma
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_device.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_device.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.i: cmake_force
@@ -397,7 +355,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_device.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_linux.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_linux.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.i: cmake_force
@@ -411,7 +369,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_linux.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_macos.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tun/tun_macos.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.i: cmake_force
@@ -425,7 +383,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/tun/tun_macos.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.i: cmake_force
@@ -439,7 +397,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel.cpp.s: cmake_force
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_manager.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_manager.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.i: cmake_force
@@ -453,7 +411,7 @@ CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cpp.s: cmake_
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o: CMakeFiles/netshield.dir/flags.make
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o: /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_state.cpp
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o: CMakeFiles/netshield.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o -MF CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o.d -o CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o -c /Users/swapnilnade/Project/netshield/apps/vpn-client/src/tunnel/tunnel_state.cpp
 
 CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.i: cmake_force
@@ -470,9 +428,6 @@ netshield_OBJECTS = \
 "CMakeFiles/netshield.dir/apps/vpn-client/src/config/client_config.cpp.o" \
 "CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_loader.cpp.o" \
 "CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.o" \
-"CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o" \
-"CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o" \
-"CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o" \
 "CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o" \
 "CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o" \
 "CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o" \
@@ -502,9 +457,6 @@ netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/application/client_appli
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/config/client_config.cpp.o
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_loader.cpp.o
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/config/config_validator.cpp.o
-netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/connection/connection_manager.cpp.o
-netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/connection/reconnect_policy.cpp.o
-netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/connection/udp_connection.cpp.o
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_config.cpp.o
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/dns/dns_manager.cpp.o
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/firewall/firewall_manager.cpp.o
@@ -528,7 +480,7 @@ netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_manager.cp
 netshield: CMakeFiles/netshield.dir/apps/vpn-client/src/tunnel/tunnel_state.cpp.o
 netshield: CMakeFiles/netshield.dir/build.make
 netshield: CMakeFiles/netshield.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable netshield"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/swapnilnade/Project/netshield/build/dev/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable netshield"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/netshield.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
